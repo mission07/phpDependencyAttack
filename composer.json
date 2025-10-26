@@ -1,11 +1,11 @@
 {
-    "name": "aws/aws-crt-python",
+    "name": "awstest/aws-crt-python",
     "description": "Testing Dependency confusion attack",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Aws\\AwsCrtPython\\": "src/"
+            "Awstest\\AwsCrtPython\\": "src/"
         }
     },
     "authors": [
